@@ -1,0 +1,16 @@
+Text table to console check
+P1 | 	burst : 15 | 	arrival : 0 | 	priority : 8 | 
+P2 | 	burst : 20 | 	arrival : 0 | 	priority : 3 | 
+P3 | 	burst : 20 | 	arrival : 20 | 	priority : 4 | 
+P4 | 	burst : 20 | 	arrival : 25 | 	priority : 4 | 
+P5 | 	burst : 5 | 	arrival : 45 | 	priority : 5 | 
+P6 | 	burst : 15 | 	arrival : 55 | 	priority : 5 | 
+
+Arrival time for P2 is 0
+Runtime for P2 is 20
+Arrival time for P3 is 20
+Runtime for P3 is 40
+Arrival time for P4 is 25
+Runtime for P4 is 60
+Arrival time for P5 is 45
+Runtime for P5 is 65
